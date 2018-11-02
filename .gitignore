@@ -13,3 +13,4 @@ TestResults
 *.chm
 *.txt
 /xunit.xml
+/Source/.vs/EntityFramework.Extended.net45/v15/Server/sqlite3
